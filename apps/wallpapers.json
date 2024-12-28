@@ -1,14 +1,16 @@
 {
     "adInterval":1,
     "interstitialAdUnitId":[
-     "ca-app-pub-8107574011529731/1224238366"
+     "ca-app-pub-8107574011529731/9521672738"
     ],
     "rewardedAdUnitId":[
-     "ca-app-pub-8107574011529731/9783786052"
+     "ca-app-pub-8107574011529731/3017271308"
     ],
     "bannerAdUnitId":[
    
-     "ca-app-pub-8107574011529731/2912692739"
+     "ca-app-pub-8107574011529731/1608002626",
+     "ca-app-pub-8107574011529731/5773085055",
+     "ca-app-pub-8107574011529731/2292055958"
      
     ],
    "nativeAdUnitIds":[
