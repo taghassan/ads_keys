@@ -1,5 +1,9 @@
 {
     "adInterval": 1,
+    "openAppAdUnitId":"ca-app-pub-8107574011529731/1312576117",
+    "rewardedInterstitialAdUnitId":[
+        "ca-app-pub-8107574011529731/1285490106"
+    ],
     "interstitialAdUnitId": [
        "ca-app-pub-8107574011529731/8624445148"
     ],
