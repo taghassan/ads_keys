@@ -1,21 +1,21 @@
 
 {
     "adInterval": 1,
-    "openAppAdUnitId":"ca-app-pub-8107574011529731/1312576117",
+    "openAppAdUnitId":"ca-app-pub-8107574011529731/8640857019",
     "rewardedInterstitialAdUnitId":[
-        "ca-app-pub-8107574011529731/1285490106"
+        "ca-app-pub-8107574011529731/5619107858"
     ],
     "interstitialAdUnitId": [
-        "ca-app-pub-8107574011529731/1224238366"
+        "ca-app-pub-8107574011529731/2187725774"
     ],
     "rewardedAdUnitId": [
-        "ca-app-pub-8107574011529731/9783786052",
-        "ca-app-pub-8107574011529731/1208395686"
+        "ca-app-pub-8107574011529731/7091971620",
+        "ca-app-pub-8107574011529731/3500807446"
     ],
     "bannerAdUnitId": [
-        "ca-app-pub-8107574011529731/2912692739",
-        "ca-app-pub-8107574011529731/8135500765",
-        "ca-app-pub-8107574011529731/1200025932"
+        "ca-app-pub-8107574011529731/5342770480",
+        "ca-app-pub-8107574011529731/7143581128",
+        "ca-app-pub-8107574011529731/5470934044"
     ],
     "nativeAdUnitIds": [
         "ca-app-pub-8107574011529731/1677462684",
